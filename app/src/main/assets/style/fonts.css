@@ -1,0 +1,185 @@
+
+@font-face {
+    font-family: 'iconfont'; /* project id 585769 */
+    src: url('iconfont.eot');
+    src: url('iconfont.eot?#iefix') format('embedded-opentype'), url('iconfont.woff') format('woff'), url('iconfont.ttf') format('truetype'), url('iconfont.svg#iconfont') format('svg');
+}
+
+.icon {
+    font-family:"iconfont" !important;
+    font-size:24px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu:before { content: "\e618"; }
+
+.icon-setting:before { content: "\e61f"; }
+
+.icon-addpage:before { content: "\e626"; }
+
+.icon-board:before { content: "\e627"; }
+
+.icon-clearall:before { content: "\e628"; }
+
+.icon-Line:before { content: "\e629"; }
+
+.icon-mouse:before { content: "\e62a"; }
+
+.icon-mark:before { content: "\e62b"; }
+
+.icon-pencil:before { content: "\e62c"; }
+
+.icon-rightarrow:before { content: "\e62d"; }
+
+.icon-text:before { content: "\e62e"; }
+
+.icon-tips:before { content: "\e62f"; }
+
+.icon-close:before { content: "\e630"; }
+
+.icon-chatsend:before { content: "\e631"; }
+
+.icon-chat:before { content: "\e632"; }
+
+.icon-dragble:before { content: "\e633"; }
+
+.icon-attendee:before { content: "\e634"; }
+
+.icon-eye:before { content: "\e635"; }
+
+.icon-file:before { content: "\e636"; }
+
+.icon-files:before { content: "\e637"; }
+
+.icon-next:before { content: "\e638"; }
+
+.icon-filesdelete:before { content: "\e639"; }
+
+.icon-normalscreen:before { content: "\e63a"; }
+
+.icon-prev:before { content: "\e63b"; }
+
+.icon-quit:before { content: "\e63c"; }
+
+.icon-fullscreen:before { content: "\e63d"; }
+
+.icon-screen:before { content: "\e63e"; }
+
+.icon-zoomin:before { content: "\e63f"; }
+
+.icon-uploadfile:before { content: "\e640"; }
+
+.icon-webcam:before { content: "\e641"; }
+
+.icon-zoomout:before { content: "\e642"; }
+
+.icon-leftarrow:before { content: "\e643"; }
+
+.icon-record:before { content: "\e644"; }
+
+.icon-webcamhorizontal:before { content: "\e645"; }
+
+.icon-webcamvertical:before { content: "\e646"; }
+
+.icon-hand:before { content: "\e647"; }
+
+.icon-tipdraw:before { content: "\e648"; }
+
+.icon-check:before { content: "\e649"; }
+
+.icon-cart:before { content: "\e64a"; }
+
+.icon-clock:before { content: "\e64b"; }
+
+.icon-left:before { content: "\e64c"; }
+
+.icon-fav:before { content: "\e64d"; }
+
+.icon-favon:before { content: "\e64e"; }
+
+.icon-right:before { content: "\e64f"; }
+
+.icon-star:before { content: "\e650"; }
+
+.icon-search:before { content: "\e651"; }
+
+.icon-location:before { content: "\e652"; }
+
+.icon-medal:before { content: "\e653"; }
+
+.icon-v:before { content: "\e654"; }
+
+.icon-insertVideo:before { content: "\e655"; }
+
+.icon-class:before { content: "\e656"; }
+
+.icon-course:before { content: "\e657"; }
+
+.icon-chat3:before { content: "\e658"; }
+
+.icon-calendar:before { content: "\e659"; }
+
+.icon-menu1:before { content: "\e65a"; }
+
+.icon-contact:before { content: "\e65b"; }
+
+.icon-files2:before { content: "\e65c"; }
+
+.icon-notification:before { content: "\e65d"; }
+
+.icon-lessons:before { content: "\e65e"; }
+
+.icon-profiles:before { content: "\e65f"; }
+
+.icon-students:before { content: "\e660"; }
+
+.icon-teacher:before { content: "\e661"; }
+
+.icon-property:before { content: "\e662"; }
+
+.icon-back:before { content: "\e663"; }
+
+.icon-attendee1:before { content: "\e664"; }
+
+.icon-live-doc:before { content: "\e665"; }
+
+.icon-icon-mic-disable:before { content: "\e666"; }
+
+.icon-chat1:before { content: "\e667"; }
+
+.icon-icon-mic-enable:before { content: "\e668"; }
+
+.icon-file1:before { content: "\e669"; }
+
+.icon-icon-video-enable:before { content: "\e66a"; }
+
+.icon-quit1:before { content: "\e66b"; }
+
+.icon-icon-video-disable:before { content: "\e66c"; }
+
+.icon-setting1:before { content: "\e66d"; }
+
+.icon-full-size:before { content: "\e66e"; }
+
+.icon-small-size:before { content: "\e66f"; }
+
+.icon-webcam:before { content: "\e670"; }
+
+.icon-webcam-mode:before { content: "\e671"; }
+
+.icon-video1:before { content: "\e672"; }
+
+.icon-deparment:before { content: "\e673"; }
+
+.icon-campus:before { content: "\e674"; }
+
+.icon-filter:before { content: "\e675"; }
+
+.icon-organization:before { content: "\e676"; }
+
+.icon-colledge:before { content: "\e677"; }
+
+.icon-mouse1:before { content: "\e678"; }
+
